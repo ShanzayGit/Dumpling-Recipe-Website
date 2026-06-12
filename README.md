@@ -93,6 +93,4 @@ Simple dipping sauce recipe.
 - Add nutrition information
 
 
-## Author
-
 Created as an HTML practice project.
