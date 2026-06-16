@@ -25,7 +25,8 @@ This project was created to practice:
 ✔ Navigation menu with anchor links  
 ✔ Recipe sections with ingredients and instructions  
 ✔ Images for visual presentation  
-✔ Footer section  
+✔ Footer section 
+✔ CSS styling  
 
 ## Project Structure
 
@@ -33,6 +34,7 @@ This project was created to practice:
 recipe-website/
 │
 ├── index.html
+├── styles.css
 ├── README.md
 │
 └── images/
@@ -81,11 +83,11 @@ Simple dipping sauce recipe.
 ## Technologies Used
 
 - HTML5
+- CSS3
 
 
 ## Future Improvements
 
-- Add CSS styling
 - Make website responsive
 - Add forms for recipe comments
 - Add multiple recipe pages
