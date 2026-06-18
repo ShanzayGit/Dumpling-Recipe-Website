@@ -1,6 +1,6 @@
 # Chicken Vegetable Dumplings Recipe Website
 
-A simple multi-section recipe website built using **HTML only**.  
+A simple multi-section recipe website built using **HTML and CSS**.  
 This project explains how to make **Chicken Vegetable Dumplings** from scratch, including:
 
 - Dumpling wrapper dough
@@ -18,6 +18,7 @@ This project was created to practice:
 - Images
 - Lists (ordered and unordered)
 - Internal page linking using IDs
+- CSS styling
 
 ## Features
 
